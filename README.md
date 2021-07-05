@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @inn3L
+- 👀 I’m interested in games, programming and tech.
+- 🌱 I’m currently learning python and some C#
